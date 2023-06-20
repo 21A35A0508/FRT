@@ -7,7 +7,7 @@ This is a web-based application developed for INTERIOR AESTHETICS.
 
 
 **Project Link** - https://kind-dune-0882ee710.3.azurestaticapps.net
-**Project Demo video Link** - https://www.youtube.com/watch?v=s0Qr_4YTvT4
+**Project Demo video Link** - [https://www.youtube.com/watch?v=s0Qr_4YTvT4](https://youtu.be/_plB32sHYjs)
 
 
 ## Features and Functionalities 😃
